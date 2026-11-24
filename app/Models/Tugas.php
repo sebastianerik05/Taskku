@@ -14,5 +14,6 @@ class Tugas extends Model
         'deskripsi',
         'tenggat',
         'status',
+        'prioritas',
     ];
 }
